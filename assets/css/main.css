@@ -2225,9 +2225,9 @@ header>p {
 	/* background: #575d59; */
 	line-height: 1em;
 	border-radius: 2px;
-	border-color: #eaa571;
+	border-color: #1fb099;
 	border: #006376;
-	background: #ffe7d5fe;
+	background: #dbf5ef;
 	cursor: pointer;
 }
 
@@ -2244,9 +2244,9 @@ header>p {
 	/* background: #575d59; */
 	line-height: 1em;
 	border-radius: 2px;
-	border-color: #eaa571;
+	border-color: #1fb099;
 	border: #006376;
-	background: #eaa571;
+	background: #1fb099;
 	cursor: pointer;
 }
 
@@ -2266,7 +2266,7 @@ button,
 	font-weight: 700;
 	text-transform: uppercase;
 	text-decoration: none;
-	background: #eaa571;
+	background: #1fb099;
 	color: #fff;
 	border: 0;
 	line-height: 1em;
@@ -2288,7 +2288,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 button:hover,
 .button:hover {
-	background: #f8bc8f;
+	background: #8ae3d4;
 }
 
 input[type="button"]:active,
@@ -2296,15 +2296,15 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 button:active,
 .button:active {
-	background: #f8bc8f;
+	background: #8ae3d4;
 }
 
 .button:disabled {
-	background: #ffe4cf;
+	background: #8ae3d4;
 }
 
 .button:disabled:hover {
-	background: #ffe4cf;
+	background: #8ae3d4;
 	cursor: initial;
 }
 
@@ -2695,7 +2695,7 @@ form input[type="phone"]:focus,
 form input[type="password"]:focus,
 form select:focus,
 form textarea:focus {
-	border-color: #f8bc8f;
+	border-color: #8ae3d4;
 }
 
 form input[type="text"],
@@ -2980,7 +2980,7 @@ body {
 	top: 0;
 	left: 0;
 	z-index: 1000;
-	background-color: #faece1;
+	background-color: #8ae3d4;
 	background-image: url("images/overlay.png");
 	width: 100%;
 	height: 3.25em;
@@ -3037,25 +3037,25 @@ body {
 
 #nav li:hover a,
 #nav li:hover span {
-	background: #f8bc8f;
+	background: #8ae3d4;
 	color: #fff;
 }
 
 #nav li.active a,
 #nav li.active span {
-	background: #eaa571;
+	background: #1fb099;
 	color: #fff;
 }
 
 #nav li.current a {
 
-	background: #eaa571;
+	background: #1fb099;
 	color: #fff;
 }
 
 .dropotron {
 	list-style: none;
-	background: #eaa571;
+	background: #1fb099;
 	color: #fff;
 	border-radius: 6px;
 	line-height: 2.75em;
@@ -3085,13 +3085,13 @@ body {
 .dropotron li:hover>a,
 .dropotron li:hover>span {
 	color: #fff;
-	background: #f8bc8f;
+	background: #8ae3d4;
 }
 
 .dropotron li.active>a,
 .dropotron li.active>span {
 	color: #fff;
-	background: #eaa571;
+	background: #1fb099;
 }
 
 .dropotron li:first-child {
@@ -3099,7 +3099,7 @@ body {
 }
 
 .dropotron.level-0 {
-	background-color: #eaa571;
+	background-color: #1fb099;
 	margin-top: 1em;
 	font-size: 0.9em;
 }
@@ -3630,7 +3630,7 @@ body {
 		position: absolute;
 		left: 0;
 		top: 0;
-		background: #eaa571;
+		background: #1fb099;
 		width: 44px;
 		height: 44px;
 		content: '\f0c9';
@@ -3641,7 +3641,7 @@ body {
 	}
 
 	#titleBar .toggle:active:before {
-		background-color: #f8bc8f;
+		background-color: #8ae3d4;
 	}
 
 	#navPanel {
