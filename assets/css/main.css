@@ -2948,7 +2948,7 @@ table.default thead {
 #header .logo {
 	position: relative;
 	text-align: center;
-	border-top: solid 5px #e7eae8;
+	border-top: solid 5px #b8e6dc;
 	top: 0.65em;
 }
 
@@ -2966,7 +2966,7 @@ table.default thead {
 
 #header .logo p {
 	display: inline;
-	color: #C1CAC5;
+	color: #505053;
 }
 
 /* Nav */
